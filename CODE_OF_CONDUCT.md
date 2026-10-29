@@ -1,4 +1,3 @@
-
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
@@ -16,7 +15,7 @@ Examples of positive behavior include:
 
 Unacceptable behavior includes harassment, insulting comments, discrimination, and other unprofessional conduct.
 
-## Our Responsibilities
+## Enforcement Responsibilities
 
 Project maintainers are responsible for clarifying and enforcing the standards of acceptable behavior. They may remove, edit, or reject contributions that violate this Code of Conduct.
 
@@ -27,6 +26,10 @@ This Code of Conduct applies to all project spaces and public interactions relat
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers.
+
+## Enforcement Guidelines
+
+Project maintainers will review reported incidents fairly and consistently. They may take appropriate corrective action based on the nature and severity of the behavior, including warnings, removal of contributions, or temporary or permanent exclusion from the project.
 
 ## Attribution
 
