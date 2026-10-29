@@ -13,3 +13,10 @@ This project provides a simple Bash-based calculator for computing simple intere
 - Add compound interest calculation.
 - Improve input validation and error handling.
 - Add automated tests.
+
+## How to Run
+
+1. Open a terminal.
+2. Navigate to the project directory.
+3. Run `bash simple-interest.sh`.
+4. Enter the principal amount, annual interest rate, and time when prompted.
